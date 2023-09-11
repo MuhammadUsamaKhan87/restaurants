@@ -15,7 +15,7 @@ const Menu = ({ Api, fav, cart }) => {
                 return (
                     <div className="card" key={id}>
                         <div className="image-container">
-                            <img src={image} alt="Menu Item" className="Menu_img" />
+                            <img src={`${process.env.PUBLIC_URL}/${image}`} alt="Menu Item" className="Menu_img" />
                         </div>
                         <div className="content-container">
                             <div className="button-container">
