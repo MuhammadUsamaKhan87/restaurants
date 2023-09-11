@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/restaurants/static/css/main.a14edd0a.css",
+    "main.js": "/restaurants/static/js/main.d0f2ac09.js",
+    "static/js/787.28cb0dcd.chunk.js": "/restaurants/static/js/787.28cb0dcd.chunk.js",
+    "static/media/iconrate.png": "/restaurants/static/media/iconrate.e6de9f9152e3d71a152f.png",
+    "static/media/Main.avif": "/restaurants/static/media/Main.25578cc3205b6bc28cc6.avif",
+    "static/media/p1.avif": "/restaurants/static/media/p1.6000265f71fc62f15586.avif",
+    "static/media/AM.avif": "/restaurants/static/media/AM.41c2788720df519bf78a.avif",
+    "static/media/rchef.jpg": "/restaurants/static/media/rchef.ba64cced61283caa8451.jpg",
+    "static/media/f2.avif": "/restaurants/static/media/f2.0ef919f8ee78e8e78db4.avif",
+    "static/media/f3.avif": "/restaurants/static/media/f3.46f83023e3604e4e74f0.avif",
+    "static/media/f1.avif": "/restaurants/static/media/f1.6c455caf64f128923967.avif",
+    "static/media/cl.avif": "/restaurants/static/media/cl.2e8fbfe3f8ecf593fcf6.avif",
+    "index.html": "/restaurants/index.html",
+    "main.a14edd0a.css.map": "/restaurants/static/css/main.a14edd0a.css.map",
+    "main.d0f2ac09.js.map": "/restaurants/static/js/main.d0f2ac09.js.map",
+    "787.28cb0dcd.chunk.js.map": "/restaurants/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a14edd0a.css",
+    "static/js/main.d0f2ac09.js"
+  ]
+}
